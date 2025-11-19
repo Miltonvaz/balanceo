@@ -1,0 +1,12 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "description": "Backend de prueba 1 para balanceador",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
